@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+# run from root dir
+fish script/setup.fish
